@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils_description/utils_description.iml" filepath="$PROJECT_DIR$/.idea/modules/utils_description/utils_description.iml" group="utils_description" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils_description/utils_description_main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils_description/utils_description_main.iml" group="utils_description" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils_description/utils_description_test.iml" filepath="$PROJECT_DIR$/.idea/modules/utils_description/utils_description_test.iml" group="utils_description" />
+    </modules>
+  </component>
+</project>

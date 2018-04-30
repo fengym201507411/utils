@@ -1,0 +1,15 @@
+description = 'utils_description'
+
+configurations.all {
+    resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'com.alibaba:fastjson:1.2.33'
+    compile 'org.apache.poi:poi-scratchpad:3.12'
+}
